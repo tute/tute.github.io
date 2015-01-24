@@ -18,9 +18,9 @@ layout: page
 
 ---
 
-## Textos míos
+## “Relatos de distintos viajes”
 
-[“En el día de hoy”, cuentos, cartas, reflexiones.](/assets/libro/Cartas.pdf)
+[Relatos de viajes en bicicleta y de mochilero.](/assets/Relatos_de_distintos_viajes.pdf)
 
 ---
 
