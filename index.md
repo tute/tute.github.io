@@ -22,9 +22,9 @@ mente imaginaba.
 
 “Hoy soy” contiene una serie de relatos cortos que divierten y hacen pensar.
 
-[Aquí disponible para comprar](https://gumroad.com/l/hoysoy).
+[Aquí disponible para comprar](https://gumroad.com/l/hoysoy?locale=es).
 
-<a href="https://gumroad.com/l/hoysoy">
+<a href="https://gumroad.com/l/hoysoy?locale=es">
   <img alt='Fotógrafo: Pablo Carden' src='/assets/focos.jpg' height='350' />
 </a>
 
