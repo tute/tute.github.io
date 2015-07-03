@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Sobre startup chile"
-category: chile
-tags: [startup-chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Después de un buen fin de semana (saldrá en el siguiente post, que sino
 quedará largo y ahora traigo fresco esto) trabajamos todo el Lunes, de esa

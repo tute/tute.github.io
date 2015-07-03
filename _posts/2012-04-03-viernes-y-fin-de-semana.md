@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Viernes y fin de semana"
-category: chile
-tags: [chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Como decía, el Viernes a la madrugada salimos a correr. Pasé a buscar a Nelson
 a las 6:30 (casi escribo 18:30, la costumbre de que en la madrugada se

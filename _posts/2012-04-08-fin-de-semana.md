@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Fin de semana"
-category: chile
-tags: [chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Van notas más personales del paseo chileno. El Viernes fuimos a cenar a una
 parrilla. Así como conocí el vino Carménère, acá conocí las vacas que se crían

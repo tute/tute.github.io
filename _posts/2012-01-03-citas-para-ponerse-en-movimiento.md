@@ -1,10 +1,8 @@
 ---
 title : Citas para ponerse en movimiento
 layout: post
-category : citas
-tags : [citas]
+categories: citas
 ---
-{% include JB/setup %}
 
 > “The one habit of highly succesful people is that they are able to create good habits.”
 

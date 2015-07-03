@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Noticias varias"
-category: chile
-tags: [chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Por si no lo notaron aún, estoy categorizando posts personales como "chile",
 posts sobre ChefSurfing y StartupChile como "startup-chile". Son dos temas

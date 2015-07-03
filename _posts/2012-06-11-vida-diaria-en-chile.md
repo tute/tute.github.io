@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Vida diaria en Chile"
-category: chile
-tags: [chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Estas semanas programamos mucho, y llegaba a casa con ganas de hacer
 actividades extra laborales y startup-chile, así que dediqué mi ocio al ocio

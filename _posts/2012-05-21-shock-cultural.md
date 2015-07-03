@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "\"Shock Cultural\""
-category: chile
-tags: [chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Pasado el enamoramiento inicial con Santiago (bastante largo, por cierto!), me
 animo a descubrir un poco la tierra que escondía bajo la alfombra. No es que

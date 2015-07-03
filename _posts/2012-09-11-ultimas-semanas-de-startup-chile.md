@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Ultimas semanas de Startup Chile"
-category: chile
-tags: [startup-chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Pasó un mes y medio sin que escribiera. Como cuando uno no saca fotos para
 dedicarse lo máximo posible a mirar lo que rodea, en buscas de aprovechar cada

@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Celebraciones"
-category: literatura
-tags: [chile literatura]
+categories: literatura
 ---
-{% include JB/setup %}
 
 Las despedidas en la casa son felices. Estos jóvenes que vienen por unos meses
 a este país se vuelven con aún mayor energía que con la que vinieron. Se van

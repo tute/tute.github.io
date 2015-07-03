@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Notas sobre Startup Chile"
-category: chile
-tags: [startup-chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Veo que pasé varias semanas sin volver a hablar de Startup Chile. Internamente
 trabajamos mucho en ChefSurfing: el Viernes publicamos una versión totalmente

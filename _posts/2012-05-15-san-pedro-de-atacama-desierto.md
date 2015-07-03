@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "San Pedro de Atacama - Desierto"
-category: chile
-tags: [chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 El Viernes salí de Santiago hacia San Pedro de Atacama. Argentina es
 inmensa, pero porque siempre me enfoco en sus bellezas cordilleranas

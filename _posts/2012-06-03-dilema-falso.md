@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Dilema falso"
-category: literatura
-tags: [literatura, chile]
+categories: literatura
 ---
-{% include JB/setup %}
 
 Antes de ayer llegué al desierto. Una chica en el hostal se quejó por no poder
 tomar baños largos, ya que el agua aquí es recurso escaso y preciado. Salí a

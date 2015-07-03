@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Sobre Startup Chile"
-category: chile
-tags: [startup-chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Recibí hace un tiempo algunas preguntas concretas sobre Startup Chile, y
 tuvimos nuevas experiencias, así que aquí va un update sobre eso.

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "On working remotely"
-tags: [programming remote tooling]
+categories: code
 ---
-{% include JB/setup %}
 
 I've spent the majority of 2013 working and traveling.
 

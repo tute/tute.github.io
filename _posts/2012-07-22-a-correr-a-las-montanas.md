@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "A correr a las montañas"
-category: chile
-tags: [chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Comparto un texto que escribí el Sábado 14 sobre una mañana en que salimos a
 correr a la montaña.

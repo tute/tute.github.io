@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "'Bienvenidos a Chile' es un hecho"
-category: chile
-tags: [chile, startup-chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Ayer llegó Clara a su casa. Esa casa fue mía hasta que encontré la actual, la
 ahora mía. Ahora aquella hermosa casa es la de Eric y Clara, la actual, la

@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Primer día en Santiago de Chile"
-category: chile
-tags: [chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Chile nos es increíble. Llegamos en colectivo después de 8 horas de sueño y 5
 de maravillarnos con la Cordillera. Debe haber habido otras 7 horas, saliendo

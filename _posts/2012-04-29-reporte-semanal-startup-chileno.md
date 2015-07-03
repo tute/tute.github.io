@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Reporte semanal startup-chileno"
-category: chile
-tags: [startup-chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 Durante la semana estamos trabajando muy bien, siempre enfocados,
 entretenidos, aprendiendo. Estamos teniendo menos meetups, aunque dos por tres

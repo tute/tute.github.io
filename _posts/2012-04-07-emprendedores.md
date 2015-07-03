@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Emprendedores"
-category: chile
-tags: [startup-chile]
+categories: startup-chile
 ---
-{% include JB/setup %}
 
 El Jueves fuimos a trabajar a las oficinas. Súper productivo, con pocas
 interrupciones para recibir feedback de otros trabajadores. Trabajamos como
