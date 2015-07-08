@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ultimas semanas de Startup Chile"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Pasó un mes y medio sin que escribiera. Como cuando uno no saca fotos para

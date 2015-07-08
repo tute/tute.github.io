@@ -1,7 +1,7 @@
 ---
 title : Citas ascetas
 layout: post
-categories: citas
+categories: Literatura
 ---
 
 > “[...] se sumerjen en los deleites, de los cuales, convertidos en costumbre, no pueden carecer, y por haber llegado a tener por necesarias aquellas cosas que antes les fueron superfluas, son los más miserables del mundo.” -- Séneca

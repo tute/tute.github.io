@@ -1,7 +1,7 @@
 ---
 title : Citas sobre los propios límites
 layout: post
-categories: citas
+categories: Literatura
 ---
 
 > “When you don’t know enough to know what can’t be done yet is the time to do the impossible” -- [David Heinemeier Hansson](http://37signals.com/svn/posts/3179-you-only-get-one-chance-to-be-a-beginner)

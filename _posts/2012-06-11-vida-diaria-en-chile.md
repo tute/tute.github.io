@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vida diaria en Chile"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Estas semanas programamos mucho, y llegaba a casa con ganas de hacer

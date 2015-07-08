@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Celebraciones"
-categories: literatura
+categories: Literatura
 ---
 
 Las despedidas en la casa son felices. Estos jóvenes que vienen por unos meses

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emprendedores"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 El Jueves fuimos a trabajar a las oficinas. Súper productivo, con pocas

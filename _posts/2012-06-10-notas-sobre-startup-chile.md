@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notas sobre Startup Chile"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Veo que pasé varias semanas sin volver a hablar de Startup Chile. Internamente

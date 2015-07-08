@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Primer día en Santiago de Chile"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Chile nos es increíble. Llegamos en colectivo después de 8 horas de sueño y 5

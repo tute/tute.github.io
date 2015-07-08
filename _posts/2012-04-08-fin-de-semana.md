@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fin de semana"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Van notas más personales del paseo chileno. El Viernes fuimos a cenar a una

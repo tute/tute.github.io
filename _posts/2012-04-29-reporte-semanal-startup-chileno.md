@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reporte semanal startup-chileno"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Durante la semana estamos trabajando muy bien, siempre enfocados,

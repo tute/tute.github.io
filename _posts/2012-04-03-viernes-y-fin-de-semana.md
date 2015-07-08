@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viernes y fin de semana"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Como decía, el Viernes a la madrugada salimos a correr. Pasé a buscar a Nelson

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A correr a las montañas"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Comparto un texto que escribí el Sábado 14 sobre una mañana en que salimos a

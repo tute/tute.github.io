@@ -11,3 +11,5 @@ github_username:  tute
 
 # Build settings
 markdown: kramdown
+
+category_title_prefix: ""

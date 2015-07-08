@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre startup chile"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Después de un buen fin de semana (saldrá en el siguiente post, que sino

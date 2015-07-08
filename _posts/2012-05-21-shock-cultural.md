@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"Shock Cultural\""
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Pasado el enamoramiento inicial con Santiago (bastante largo, por cierto!), me

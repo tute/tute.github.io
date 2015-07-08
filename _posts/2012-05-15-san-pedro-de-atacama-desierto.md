@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "San Pedro de Atacama - Desierto"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 El Viernes salí de Santiago hacia San Pedro de Atacama. Argentina es

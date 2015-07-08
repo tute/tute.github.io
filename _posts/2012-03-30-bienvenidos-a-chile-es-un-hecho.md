@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Bienvenidos a Chile' es un hecho"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Ayer llegó Clara a su casa. Esa casa fue mía hasta que encontré la actual, la

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Noticias varias"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Por si no lo notaron aún, estoy categorizando posts personales como "chile",

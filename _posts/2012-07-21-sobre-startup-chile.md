@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre Startup Chile"
-categories: startup-chile
+categories: "Startup-Chile"
 ---
 
 Recibí hace un tiempo algunas preguntas concretas sobre Startup Chile, y

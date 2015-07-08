@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dilema falso"
-categories: literatura
+categories: Literatura
 ---
 
 Antes de ayer llegué al desierto. Una chica en el hostal se quejó por no poder
