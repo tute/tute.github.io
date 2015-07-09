@@ -160,9 +160,10 @@ module Jekyll
     # Loops through the list of category pages and processes each one.
     def write_category_indexes
       if self.layouts.key? 'category_index'
-        self.categories.keys.each do |category|
+        self.categories.keys.sort.each do |category|
           self.write_category_index(category)
         end
+        self.pages = pages + [pages.delete_at(3)]
 
       # Throw an exception if the layout couldn't be found.
       else
