@@ -16,21 +16,28 @@ La ruta tentativa a grandes rasgos es:
 
 <pre>
   0 km Thun, Suiza (donde alquilo la moto)
+       Montreux
        Rutas E27, SS27
 360 km Turin, Italia
        via Panice Soprana y Mónaco
 223 km Nice
 195 km Genova
-       via Camogli, Portofino, Cinque Terre, Pisa, San Gimignano (y Siena?)
+       via Camogli, Portofino, Cinque Terre, Pisa, San Gimignano, Siena
 245 km Florencia
        via Bagno di Romagna
 213 km San Marino
+       via Mantova
 274 km Verona
+       via Padua, Strada delle 52, Trento
 211 km Belluno
-       via Trento
+       via San Martino di Castrozza
+       Gardena Pass/Grodner joch?
+       Falzarego pass?
 316 km Stelvio Pass, Passo di Foscagno
 130 km Splügen Pass
 103 km Lugano
+       Lucerne?
+       Brienz (go up Alpgasse), Interlaken, Beatenberg
 245 km Thun
 </pre>
 
