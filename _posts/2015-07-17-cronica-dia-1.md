@@ -17,23 +17,24 @@ atendió no sabía si preocuparse reír o llorar.
 
 Estas cosas pasan. Me avergoncé a morir, pero pasa. Además de la moto me tomó
 por sorpresa el mayor peso, aunque a esa la esperaba, pero no me preparé bien.
-Fue un error. Fue bueno que me quitó cualquier vestigio de confianza que pudiera
-tener, y creo que eso es saludable. En fin, levanté la moto, tomaron nota de dos
-rayones nuevos que le hice antes de arrancarle el motor, y me fui en primera
+Fue un error. Fue bueno que me quitó cualquier vestigio de excesiva confianza
+que pudiera tener, y que eso es saludable. En fin, levanté la moto, tomaron nota
+de dos rayones nuevos que le hice antes de arrancarla, y me fui en primera
 regulando.
 
 ![Curva de 180º](/imgs/2015-07-Suiza/thumb_IMG_1980_1024.jpg)
 
-Suena perfecto. Tan grave. Regulando y acelerando en baja se siente. Ya la
-disfruto de una manera que ya soy consciente que cuando la devuelva la voy a
-extrañar como si fuera mía. Es perfecta esta modalidad de moto para este momento
-mío: tiene un motor con buena fuerza (es la 650 versión "desinflada", que me
-viene bien, sin embargo tiene muy buen torque y anda cómoda en baja como en
-alta), y eso la hace sentir medio grande. Puedo llevar equipaje, otras personas,
-puedo acelerar en subidas, puedo andar rápido por autopistas si quiero. Pero a
-la vez se siente chica: es relativamente liviana, y tiene una posición de manejo
-erguida y baja. Es fácil de llegar al suelo con las dos piernas a la vez, y eso
-facilita cualquier pequeña imprecisión que uno comete por ser moto nueva.
+Suena perfecto. Muy grave, regulando y acelerando en baja se siente casi
+físicamente. Ya la disfruto de una manera que ya soy consciente de que cuando la
+devuelva la voy a extrañar como si fuera mía. Es perfecta esta modalidad de moto
+para este momento mío: tiene un motor con fuerza (es la 650 versión
+"desinflada", que me viene bien, sin embargo tiene muy buen torque y anda cómoda
+en baja como en alta), y eso la hace sentir medio grande. Puedo llevar equipaje,
+otras personas, puedo acelerar en subidas, puedo andar rápido por autopistas si
+quiero. Pero a la vez se siente chica: es relativamente liviana, y tiene una
+posición de manejo erguida y baja. Es fácil de llegar al suelo con las dos
+piernas a la vez, y eso facilita cualquier pequeña imprecisión que uno puede
+cometer.
 
 En fin, pasé las primeras dos o tres horas andando lento y acostumbrándome, y
 ahora ya me siento bastante cómodo. Sé cómo frena, sé pasar cambios sin
@@ -59,17 +60,18 @@ Fui de Thun a Escholzmatt, y luego a Flühli. Estos suizos bautizaron esa ruta
 recordó muchísimo a "la ruta de la muerte" que lleva a Coroico desde La Paz,
 Bolivia. No es tan distinta: muy angosta (no entran dos autos en varias partes),
 escarpado precipicio a centímetros de la cinta asfáltica, bastante tráfico y
-paisajes inolvidables. Las diferencias: aquí no se ven derrumbers de barro, la
+paisajes inolvidables. Las diferencias: aquí no se ven derrumbes de barro, la
 ruta es de pavimento bien mantenido, y hay guardarieles en toda su extensión. Y
-el nombre, también, marketing más inclusivo el de los suizos.
+el nombre también, el de los suizos fue un marketing más inclusivo.
 
 ![Valle, caseríos y lago](/imgs/2015-07-Suiza/thumb_IMG_1998_1024.jpg)
 
 Pasado Brienz y camino a Ringgenberg decidí que ya estaba suficientemente
 cansado como para rodear el lago y seguir caminos montañosos a Lugano. Hice
-cuentas y ya llegaba de noche, prefiero andar de día. Corté camino entonces, y
-empecé a tomar rutas directas hacie Lugano, volví sobre mis pasos de Brienz y
-anduve por rutas más rectas. Hasta que subieron de nuevo a la montaña.
+cuentas y ya llegaba de noche, de día es más seguro así que quiero minimizar los
+viajes nocturnos. Corté entonces camino, empecé a tomar rutas directas hacia
+Lugano. Volví sobre mis pasos de Brienz y anduve por rutas más rectas... hasta
+que subieron de nuevo a la montaña!
 
 Esta fue de las rutas más hermosas que hice en mi vida. Tengo recuerdos grabados
 a fuego de mis viajes en bici, esta ruta fue comparable al curce de la
@@ -95,7 +97,9 @@ montaña pero había llovido, estaba frío, anocheciendo y cansado. No es una bu
 combinación. Hubiera dormido en Wassen pero me esperaba familia en Lugano, así
 que decidí completar el trayecto por autopista. Decido para los próximos días de
 viaje en que seguiré sólo pasar más tiempo en caminos de montaña y ciudades, y
-hacer menos ciudades. Es un viaje que me sienta mejor.
+visitar menos cantidad de ciudades. No quiero cansarme físicamente, y disfruto
+tanto arriba de la moto como en cualquier mirador, o en la mesa de algún café o
+bar.
 
 ![Ruta abajo deja ver los túneles y el valle](/imgs/2015-07-Suiza/thumb_IMG_2014_1024.jpg)
 
@@ -107,7 +111,7 @@ aire fresco y porque no paran de pasar autos), y luego al frío de afuera otra
 vez.
 
 Nota sin relación: Suiza es notablemente caro. A mi me parece un oxímoron que la
-gente diga "cruzo a Alemania porque es más barato", pero es notable. Cualquier
+gente diga "cruzo a Alemania porque es más barato", pero es así. Cualquier
 cafecito normalmente cuesta alrededor de 4.5 francos, que son como 4.7 dólares,
 que con propina son 5 dólares. Lo mismo cualquier gaseosa o helado. Un plato
 normal va por los 15 francos. Mañana cruzo a Italia y me voy a sentir rico.
@@ -116,11 +120,11 @@ Sensación peligrosa porque voy a terminar gastando lo mismo si no la corrijo!
 Empecé a pensar en los precios cuando vi que mi tarjeta pagó más de USD 150 por
 cargar 6 litros de nafta. Cuando pregunté qué había pasado me dijeron que es
 sólo un pedido de autorización a la tarjeta que se devuelve. No se asusten,
-compradores de combustible extranjeros en Suiza!
+extranjeros en Suiza comprando combustible!
 
 Pasado el túnel la autopista se normalizó, me puse un buzo, continué usando los
 calentadores de puños, y con menos tráfico y más cómodo en la moto empecé a
 andar a la velocidad de los autos, o un poco más. Llegué a Lugano de noche. Ya
-me sorprendí con las callejuelas que desde el lago suben a la montaña, y con
-varios personajes tanos o latinoamericanos que nos encontramos por estas
-veredas. Pero las vistas de Lugano y alrededores esperan a que salga el sol.
+me recibieron las callejuelas que desde el lago suben a la montaña, y varios
+personajes tanos o latinoamericanos que nos encontramos por estas veredas. Las
+vistas de Lugano y alrededores esperan a que salga el sol.
