@@ -5,7 +5,7 @@ permalink: /software-developer/
 ---
 
 <p style="text-align: center; padding-top: 4em">
-  Developer at <a href="https://thoughtbot.com/new-york-city">thoughtbot</a>.
+  Software Developer at <a href="https://www.prodeal360.com/">ProDeal360</a>.
 </p>
 
 
@@ -16,13 +16,18 @@ permalink: /software-developer/
   <a href="https://github.com/thoughtbot/suspenders">suspenders gem</a>
 </p>
 <p style="text-align: center; padding-top: .5em">
+  <a href="https://github.com/merit-gem/merit">merit gem</a>
+</p>
+
+
+<p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
+  Maintained open source projects:
+</p>
+<p style="text-align: center; padding-top: .5em">
   <a href="https://github.com/doorkeeper-gem/doorkeeper">doorkeeper gem</a>
 </p>
 <p style="text-align: center; padding-top: .5em">
   <a href="https://github.com/thoughtbot/paperclip">paperclip gem</a>
-</p>
-<p style="text-align: center; padding-top: .5em">
-  <a href="https://github.com/merit-gem/merit">merit gem</a>
 </p>
 
 
