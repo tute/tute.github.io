@@ -6,14 +6,15 @@ permalink: /software-developer/
 
 <p style="text-align: center; padding-top: 4em">
   Software Developer at <a href="https://www.prodeal360.com/">ProDeal360</a>.
+  <br>
+  Formerly
+  <a href="https://www.thoughtbot.com/">thoughtbot</a>,
+  <a href="https://generalassemb.ly/">General Assembly</a>.
 </p>
 
 
 <p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
   Maintains open source projects:
-</p>
-<p style="text-align: center; padding-top: .5em">
-  <a href="https://github.com/thoughtbot/suspenders">suspenders gem</a>
 </p>
 <p style="text-align: center; padding-top: .5em">
   <a href="https://github.com/merit-gem/merit">merit gem</a>
@@ -29,16 +30,19 @@ permalink: /software-developer/
 <p style="text-align: center; padding-top: .5em">
   <a href="https://github.com/thoughtbot/paperclip">paperclip gem</a>
 </p>
+<p style="text-align: center; padding-top: .5em">
+  <a href="https://github.com/thoughtbot/suspenders">suspenders gem</a>
+</p>
 
 
 <p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
+  Wrote articles for the
+  <a href="https://robots.thoughtbot.com/authors/tute-costa">thoughtbot blog</a>.
+</p>
+<p style="text-align: center; padding-top: .5em">
   Wrote the
   <a href="http://maintaining-open-source.com/">Maintaining Open Source Projects</a>
   book.
-</p>
-<p style="text-align: center; padding-top: .5em">
-  Wrote posts for the
-  <a href="https://robots.thoughtbot.com/authors/tute-costa">thoughtbot blog</a>.
 </p>
 
 
