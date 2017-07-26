@@ -5,7 +5,8 @@ permalink: /software-developer/
 ---
 
 <p style="text-align: center; padding-top: 4em">
-  Software Developer at <a href="https://www.prodeal360.com/">ProDeal360</a>.
+  Software developer (<a href="https://holaamericas.wordpress.com/">now
+  traveling</a>).
   <br>
   Formerly
   <a href="https://www.thoughtbot.com/">thoughtbot</a>,
