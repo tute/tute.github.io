@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>Hoja de Rutas - Hola Américas</title>
+  <style>
+    /* Always set the map height explicitly to define the size of the div
+     * element that contains the map. */
+    #map {
+      height: 100%;
+    }
+    /* Optional: Makes the sample page fill the window. */
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script>
+    function initMap() {
+      var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 4,
+        center: {lat: -20, lng: -55},
+        mapTypeId: 'terrain'
+      });
+
+      var coordinates = [
+        {lat: -31.6571, lng: -64.4347}, // Alta Gracia
+        {lat: -31.4201, lng: -64.1888}, // _Córdoba
+        {lat: -31.4250, lng: -62.0842}, // San Francisco
+        {lat: -29.8885, lng: -60.2840}, // Calchaquí
+        {lat: -29.2333, lng: -59.9333}, // Reconquista
+        {lat: -27.4692, lng: -58.8306}, // Corrientes
+        {lat: -27.7688, lng: -57.2760}, // Estancia San Juan Poriahú (Loreto)
+        {lat: -27.2575, lng: -55.5354}, // San Ignacio
+        {lat: -25.5972, lng: -54.5786}, // Puerto Iguazú
+        {lat: -25.1287, lng: -52.8313}, // Guaraniaçu
+        {lat: -25.0994, lng: -50.1585}, // Ponta Grossa
+        {lat: -23.5264, lng: -49.2460}, // Taquarituba
+        {lat: -23.5338, lng: -46.6253}, // San Pablo
+        {lat: -23.2201, lng: -44.7205}, // Parati
+        {lat: -23.0093, lng: -44.4589}, // _Itaorna
+        {lat: -22.9068, lng: -43.1729}, // Rio de Janeiro
+        {lat: -22.7570, lng: -42.8643}, // Itaboraí
+        {lat: -22.7564, lng: -41.8890}, // Búzios
+        {lat: -22.7571, lng: -42.0254}, // _ruta
+        {lat: -22.5273, lng: -41.9464}, // _Rio das Ostras
+        {lat: -21.7627, lng: -41.3185}, // _Campos
+        {lat: -21.6368, lng: -41.0484}, // São João da Barra
+        {lat: -20.9281, lng: -41.8705}, // Varre Sai
+        {lat: -19.0984, lng: -40.1862}, // Sooretama
+        {lat: -16.4444, lng: -39.0654}, // Porto Seguro
+        {lat: -14.7935, lng: -39.0464}, // Ilheus
+        {lat: -13.3803, lng: -38.9125}, // _Morro de São Paulo
+
+        {lat: -12.9722, lng: -38.5014}, // Salvador
+        {lat: -12.2597, lng: -38.9647}, // Feira de Santana (TECHO)
+        {lat: -12.9722, lng: -38.5014}, // Salvador
+
+        {lat: -12.5746, lng: -38.0050}, // _Praia do Forte
+        {lat: -10.9472, lng: -37.0731}, // Aracaju
+        {lat:  -9.6498, lng: -35.7089}, // Maceió
+        {lat:  -9.4636, lng: -35.5523}, // Paripueira
+        {lat:  -9.6498, lng: -35.7089}, // Maceió
+
+        {lat:  -8.6833, lng: -35.5917}, // _Palmares
+        {lat:  -8.4845, lng: -34.9997}, // Porto de Galhinas
+        {lat:  -7.9908, lng: -34.8416}, // Olinda
+        {lat:  -7.1195, lng: -34.8450}, // João Pessoa
+        {lat:  -6.2858, lng: -35.1929}, // Goianinha
+        {lat:  -5.7793, lng: -35.2009}, // Natal
+        {lat:  -5.4101, lng: -35.3115}, // Maracajaú
+        {lat:  -5.7793, lng: -35.2009}, // Natal
+        {lat:  -4.5258, lng: -37.7056}, // Canoa Quebrada
+        {lat:  -3.7319, lng: -38.5267}, // Fortaleza
+        {lat:  -2.7956, lng: -40.5143}, // Jericoacoara
+        {lat:  -2.9050, lng: -41.7769}, // Parnaíba
+        {lat:  -2.5391, lng: -44.2829} // Morros
+      ];
+      var path = new google.maps.Polyline({
+        path: coordinates,
+        geodesic: true,
+        strokeColor: '#0000FF',
+        strokeOpacity: 1.0,
+        strokeWeight: 3
+      });
+
+      path.setMap(map);
+    }
+  </script>
+  <script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBrVP_1PTLuqU2qfGtFn8_sofQ38OPm7-E&callback=initMap">
+  </script>
+</body>
+</html>
