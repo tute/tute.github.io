@@ -85,10 +85,12 @@ permalink: /software-developer/
   Built:
 </p>
 <p style="text-align: center; padding-top: .5em">
-  encyclomap.com: <a href="http://www.encyclomap.com/">discover the world around you</a>
+  encyclomap: discover the world around you
+  <br>
+  <small>(offline due to Wikimapia API being down)</small>
 </p>
 <p style="text-align: center; padding-top: .5em; padding-bottom: 4em">
-  Habitos.in: <a href="http://www.habitos.in/">Keep up with your resolutions</a><br>
+  Habitos: Keep up with your resolutions<br>
   <small>
     Rewritten in Sinatra, Rails, suspenders, Elixir/Phoenix,<br>
     backbone.js, Twitter Bootstrap, Bourbon, and counting.
