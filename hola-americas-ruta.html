@@ -23,8 +23,8 @@
   <script>
     function initMap() {
       var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 4,
-        center: {lat: -20, lng: -55},
+        zoom: 5,
+        center: {lat: -18, lng: -55},
         mapTypeId: 'terrain'
       });
 
@@ -101,7 +101,14 @@
         {lat:  -6.8667, lng: -78.1422}, // _Celendin
         {lat:  -7.0864, lng: -78.3529}, // _Encañada
         {lat:  -7.1561, lng: -78.4685}, // Baños del Inca
-        {lat:  -7.1617, lng: -78.5128}  // Cajamarca
+        {lat:  -7.1617, lng: -78.5128}, // Cajamarca
+        {lat:  -7.2224, lng: -78.8414}, // _Chilete
+        {lat:  -7.3686, lng: -78.8133}, // _Contumazá
+        {lat:  -7.4796, lng: -78.8256}, // _Cascas
+        {lat:  -7.8502, lng: -79.1535}, // _Chicama
+        {lat:  -8.1166, lng: -79.0546}, // Trujillo
+        {lat: -10.0651, lng: -78.1697}, // Huarmey
+        {lat: -12.0551, lng: -77.0802}  // Lima
       ];
       var path = new google.maps.Polyline({
         path: coordinates,
