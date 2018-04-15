@@ -23,14 +23,14 @@
   <script>
     function initMap() {
       var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 5,
-        center: {lat: -18, lng: -55},
+        zoom: 4.85,
+        center: {lat: -17.5, lng: -55},
         mapTypeId: 'terrain'
       });
 
       var coordinates = [
         {lat: -31.6571, lng: -64.4347}, // Alta Gracia
-        {lat: -31.4201, lng: -64.1888}, // _Córdoba
+        {lat: -31.4201, lng: -64.1888}, // Córdoba
         {lat: -31.4250, lng: -62.0842}, // San Francisco
         {lat: -29.8885, lng: -60.2840}, // Calchaquí
         {lat: -29.2333, lng: -59.9333}, // Reconquista
@@ -112,9 +112,26 @@
         {lat: -13.7102, lng: -76.2053}, // Pisco
         {lat: -14.8359, lng: -74.9328}, // Nazca
         {lat: -16.6227, lng: -72.7111}, // Camaná
-        {lat: -18.0066, lng: -70.2463}  // Tacna
+        {lat: -18.0066, lng: -70.2463}, // Tacna
 
-        // {lat: -31.6571, lng: -64.4347}, // Alta Gracia
+        {lat: -20.2307, lng: -70.1357}, // Iquique
+        {lat: -22.4544, lng: -68.9294}, // Calama
+        {lat: -22.9087, lng: -68.1997}, // San Pedro de Atacama
+        {lat: -23.6833, lng: -68.0842}, // Peine
+        {lat: -24.2232, lng: -69.0932}, // Estación Zaldivar
+        {lat: -23.6500, lng: -70.4000}, // Antofagasta
+        {lat: -25.4087, lng: -70.4836}, // Taltal
+        {lat: -26.1496, lng: -70.6687}, // Parque N. Pan de Azúcar
+        {lat: -26.3388, lng: -70.6189}, // Chañaral
+        {lat: -26.4732, lng: -69.3219}, // Potrerillos
+        {lat: -26.8393, lng: -69.0459}, // Aduana chilena
+        {lat: -26.9076, lng: -68.1317}, // Campamento Las Grutas
+        {lat: -28.0627, lng: -67.5661}, // Tinogasta
+        {lat: -29.2206, lng: -65.7780}, // San Martín
+        {lat: -30.4241, lng: -64.3494}, // Deán Funes
+
+        {lat: -31.4201, lng: -64.1888}, // Córdoba
+        {lat: -31.6571, lng: -64.4347} // Alta Gracia
       ];
       var path = new google.maps.Polyline({
         path: coordinates,
