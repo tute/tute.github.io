@@ -1,12 +1,11 @@
 ---
 layout: default
-title: software developer
+title: Software developer
 permalink: /software-developer/
 ---
 
 <p style="text-align: center; padding-top: 4em">
-  Software developer (<a href="https://holaamericas.wordpress.com/">now
-  traveling</a>).
+  Software developer at <a href="https://www.epionhealth.com/">Epion Health</a>.
   <br>
   Formerly
   <a href="https://www.thoughtbot.com/">thoughtbot</a>,
