@@ -7,11 +7,14 @@ permalink: /software-developer/
 <p style="text-align: center; padding-top: 4em">
   Software developer at <a href="https://www.epionhealth.com/">Epion Health</a>.
   <br>
-  Formerly
-  <a href="https://www.thoughtbot.com/">thoughtbot</a>,
-  <a href="https://generalassemb.ly/">General Assembly</a>.
+  Formerly <a href="https://www.thoughtbot.com/">thoughtbot</a>.
 </p>
 
+<p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
+  Hired and mentors a successful development team<br>
+  Leads new products from conception to production<br>
+  Performed data layer refactors on an app with 600 requests per minute
+</p>
 
 <p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
   Maintains <a href="https://github.com/merit-gem/merit">merit gem</a> open
