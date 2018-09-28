@@ -14,24 +14,21 @@ permalink: /software-developer/
 
 
 <p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
-  Maintains open source projects:
+  Maintains <a href="https://github.com/merit-gem/merit">merit gem</a> open
+  source project.
 </p>
-<p style="text-align: center; padding-top: .5em">
-  <a href="https://github.com/merit-gem/merit">merit gem</a>
+
+<p style="text-align: center; margin-top: 2em">
+  Maintained:
+  <a href="https://github.com/doorkeeper-gem/doorkeeper">doorkeeper</a>,
+  <a href="https://github.com/thoughtbot/paperclip">paperclip</a>,
+  <a href="https://github.com/thoughtbot/suspenders">suspenders</a> gems.
 </p>
 
 
 <p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
-  Maintained open source projects:
-</p>
-<p style="text-align: center; padding-top: .5em">
-  <a href="https://github.com/doorkeeper-gem/doorkeeper">doorkeeper gem</a>
-</p>
-<p style="text-align: center; padding-top: .5em">
-  <a href="https://github.com/thoughtbot/paperclip">paperclip gem</a>
-</p>
-<p style="text-align: center; padding-top: .5em">
-  <a href="https://github.com/thoughtbot/suspenders">suspenders gem</a>
+  Ran <a href="https://www.youtube.com/watch?v=gOiuiiNERXw">Refactoring Ruby</a>
+  workshop (in Spanish). Ran it at conferences, code schools, and meetups.
 </p>
 
 
@@ -43,55 +40,4 @@ permalink: /software-developer/
   Wrote the
   <a href="http://maintaining-open-source.com/">Maintaining Open Source Projects</a>
   book.
-</p>
-
-
-<p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
-  Ran workshops:
-</p>
-<p style="text-align: center; padding-top: .5em">
-  <a href="https://www.google.com/search?q=first-time+open+source+workshop+ruby+focused+site:http:%2F%2Fwww.meetup.com%2Fhackerhours">
-    First-Time Open Source Contributor Workshops
-  </a>
-</p>
-<p style="text-align: center; padding-top: .5em">
-  Web Accessibility Workshop at NYU (Nov. 22nd, 2015)
-</p>
-<p style="text-align: center; padding-top: .5em">
-  <a href="https://www.youtube.com/watch?v=VZha9Rh9dIc">Refactoring Ruby</a>
-  (at conferences, code schools, and meetups)
-</p>
-
-
-<p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
-  <a href="http://lanyrd.com/profile/tutec/sessions/">Spoke at conferences</a>:
-</p>
-<p style="text-align: center; padding-top: .5em">
-  Open Source & Feelings 2015
-</p>
-<p style="text-align: center; padding-top: .5em">
-  RubyConf Argentina 2014
-</p>
-<p style="text-align: center; padding-top: .5em">
-  RailsConf 2014
-</p>
-<p style="text-align: center; padding-top: .5em">
-  RubyConf Argentina 2013
-</p>
-
-
-<p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #eee">
-  Built:
-</p>
-<p style="text-align: center; padding-top: .5em">
-  encyclomap: discover the world around you
-  <br>
-  <small>(offline due to Wikimapia API being down)</small>
-</p>
-<p style="text-align: center; padding-top: .5em; padding-bottom: 4em">
-  Habitos: Keep up with your resolutions<br>
-  <small>
-    Rewritten in Sinatra, Rails, suspenders, Elixir/Phoenix,<br>
-    backbone.js, Twitter Bootstrap, Bourbon, and counting.
-  </small>
 </p>
