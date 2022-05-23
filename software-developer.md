@@ -12,7 +12,7 @@ permalink: /software-developer/
 </p>
 <p style="text-align: center">
   Enabled new workflows by performing database migrations and major refactors<br>
-  on an application with 600 requests per minute, with no downtime
+  on an application with 6500 requests per minute, with no downtime
 </p>
 <p style="text-align: center">
   Lead new products from conception to production
@@ -67,11 +67,12 @@ permalink: /software-developer/
 
 
 <p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #ddd">
-  <strong>I ran a <a href="https://www.youtube.com/watch?v=gOiuiiNERXw">Refactoring Ruby workshop</a></strong> (in Spanish, 2019)
+  <strong>I run a <a href="https://www.youtube.com/watch?v=gOiuiiNERXw">Refactoring Ruby workshop</a></strong>
+  (in Spanish, 2018, <a href="https://www.youtube.com/watch?v=biPo9PzmWhs">2022</a>)
 </p>
 
 <p style="text-align: center">
-  Ran it too in RubyConf Argentina and <a href="https://www.youtube.com/watch?v=ozWzehOEeuI">RailsConf 2014</a>,<br>
+  Ran it in RubyConf Argentina and <a href="https://www.youtube.com/watch?v=ozWzehOEeuI">RailsConf 2014</a>,<br>
   the <a href="https://www.flatironschool.com/campuses/nyc">Flatiron School</a>,
   and <a href="https://www.youtube.com/watch?v=VZha9Rh9dIc">the Ruby Roundtable meetup</a>
 </p>
