@@ -5,23 +5,27 @@ permalink: /software-developer/
 ---
 
 <p style="text-align: center; padding-top: 4em">
-  <strong>I work at <a href="https://www.epionhealth.com/">Epion Health</a></strong> (since 2017), where I:
+  <strong>I work at <a href="https://www.buoysoftware.com/">Buoy Software</a></strong> (present).
+</p>
+
+<p style="text-align: center; padding-top: 2em; margin-top: 2em; border-top: 1px solid #ddd">
+  <strong>I worked at <a href="https://www.epionhealth.com/">Epion Health</a></strong> (2017 - 2022), where I:
 </p>
 <p style="text-align: center">
   Hired a development team
 </p>
 <p style="text-align: center">
-  Lead new products from conception to production
+  Led new products from conception to production
 </p>
 <p style="text-align: center">
   Fulfilled different roles as the Development team grew from 3 to 22 people
 </p>
 <p style="text-align: center">
-  Enabled new workflows by performing database migrations and major refactors<br>
+  Enabled new workflows by performing database migrations and refactors<br>
   on an application with 8.000 requests per minute, with no downtime
 </p>
 <p style="text-align: center">
-  Help run a Book Club and regular Lunch and Learn sessions
+  Helped run a Book Club and regular Lunch and Learn sessions
 </p>
 
 
@@ -112,11 +116,6 @@ permalink: /software-developer/
 
 <p style="text-align: center">
   Studied Computer Sciences in <a href="https://www.dc.uba.ar/">Universidad de Buenos Aires</a> (2005 - 2011)
-</p>
-
-<p style="text-align: center">
-  Ran full marathons (up to 2015).
-  I continue to run, but sane distances now
 </p>
 
 <p style="text-align: center">
