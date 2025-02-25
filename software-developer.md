@@ -130,3 +130,7 @@ permalink: /software-developer/
 <p style="text-align: center">
   Fly small airplanes as a Private Pilot (2022)
 </p>
+
+<p style="text-align: center">
+  Have two boys (2021, 2024). If you are debating it, I recommend you do too!
+</p>
