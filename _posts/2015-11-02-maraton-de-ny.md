@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Maratón de NY"
 categories: viajes
 ---

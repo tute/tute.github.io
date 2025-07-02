@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Reporte semanal startup-chileno"
 categories: "Startup-Chile"
 ---

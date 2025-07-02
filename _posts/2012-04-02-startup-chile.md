@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Sobre startup chile"
 categories: "Startup-Chile"
 ---

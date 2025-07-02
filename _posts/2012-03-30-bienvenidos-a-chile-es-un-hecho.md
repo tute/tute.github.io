@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "'Bienvenidos a Chile' es un hecho"
 categories: "Startup-Chile"
 ---

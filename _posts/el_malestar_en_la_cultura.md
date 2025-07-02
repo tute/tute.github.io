@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Notas de El malestar en la cultura
 categories: libros
 ---

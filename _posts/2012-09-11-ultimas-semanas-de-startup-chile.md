@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Ultimas semanas de Startup Chile"
 categories: "Startup-Chile"
 ---

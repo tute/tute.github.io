@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Plan de viajes por los Alpes"
 categories: viajes
 ---

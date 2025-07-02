@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "San Pedro de Atacama - Desierto"
 categories: "Startup-Chile"
 ---

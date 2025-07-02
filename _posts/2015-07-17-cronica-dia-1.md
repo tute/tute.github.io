@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Crónica del primer día"
 categories: viajes
 ---
