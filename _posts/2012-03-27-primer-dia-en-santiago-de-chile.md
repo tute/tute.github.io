@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Primer día en Santiago de Chile"
 categories: "Startup-Chile"
 ---

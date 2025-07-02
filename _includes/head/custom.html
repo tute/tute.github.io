@@ -1,0 +1,12 @@
+<!-- CSS Preloading for performance -->
+<link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}" as="style">
+
+<!-- JavaScript Preloading for performance -->
+<link rel="preload" href="{{ '/assets/js/main.min.js' | relative_url }}" as="script">
+
+<!-- Font loading optimization -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Prevent automatic favicon request -->
+<link rel="icon" href="data:,">

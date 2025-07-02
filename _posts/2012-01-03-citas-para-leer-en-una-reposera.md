@@ -1,7 +1,7 @@
 ---
 title : Citas para leer en una reposera
-layout: post
-categories: Literatura
+layout: single
+categories: Escritos
 ---
 
 > “El conocimiento, como el amor, es uno de los pocos bienes que crece a medida que se comparte.”
