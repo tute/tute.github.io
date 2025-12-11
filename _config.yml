@@ -1,9 +1,9 @@
 # Site settings
 title: Tute Costa
-tagline: "Software Engineer"
+tagline: "Staff Software Engineer"
 name: Tute Costa
 email: tutecosta@protonmail.com
-description: "Software Engineer from Córdoba, Argentina"
+description: "Staff Software Engineer from Córdoba, Argentina"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.tutecosta.com/"
 repository: "tute/tute.github.io"
@@ -16,7 +16,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 author:
   name: "Tute Costa"
   avatar: "https://avatars.githubusercontent.com/u/54260?s=400&v=4"
-  bio: "Software Engineer"
+  bio: "Staff Software Engineer"
   location: "Córdoba, Argentina"
   links:
     - label: "@tutec"
